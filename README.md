@@ -11,7 +11,7 @@ The following questions will be addressed with data analysis:
 
 *** Trends over the Years ***
 
-![4](https://user-images.githubusercontent.com/114278846/227146018-02b742e7-1205-462b-9884-5366c2edb797.jpeg)
+![4](https://user-images.githubusercontent.com/114278846/227146776-a9710e47-a780-4777-bf76-9c5013a131a7.jpeg)
 
 
 ### 1. How many people accepted offers in each department in 2018, and what was the offer acceptance rate?
@@ -33,7 +33,8 @@ The data analysis will be presented with data visualization techniques with atta
 
 ### DASHBOARD
 
-![dashboard](https://user-images.githubusercontent.com/114278846/227146225-f6ec69f8-3e1e-499a-961b-240181abeba9.jpeg)
+![DB](https://user-images.githubusercontent.com/114278846/227146761-5d6ede66-15c6-42b9-876b-992dfed3c764.jpeg)
+
 
 ### SINGLE PAGE EXPLANATION
 
