@@ -9,7 +9,7 @@ The head of recruiting is preparing for an offsite with the human capital leader
 ## Data Analysis
 The following questions will be addressed with data analysis:
 
-* Acceptance Trend over the Years *
+*Acceptance Trend over the Years*
 
 ![4](https://user-images.githubusercontent.com/114278846/227146776-a9710e47-a780-4777-bf76-9c5013a131a7.jpeg)
 
